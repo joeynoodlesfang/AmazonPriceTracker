@@ -60,7 +60,6 @@ def send_mail(price_str, URL):
 
 
 
-
 myURL = 'https://www.amazon.ca/Yes4All-Solid-Competition-Kettlebell-Weight/dp/B06XRBBB5V/?_encoding=UTF8&pd_rd_w=C85bi&content-id=amzn1.sym.45d682ac-22ed-4836-a2a3-54cdaf4102de%3Aamzn1.symc.43e4e477-9c69-4a02-84f5-6da0b435879b&pf_rd_p=45d682ac-22ed-4836-a2a3-54cdaf4102de&pf_rd_r=J098150VFJMZ1HFEDY14&pd_rd_wg=g3w1K&pd_rd_r=7258ba7c-da91-4955-805f-aabae4d7a96b&ref_=pd_hp_d_atf_ci_mcx_mr_hp_atf_m&th=1'
 
 price_str = check_price(myURL)
